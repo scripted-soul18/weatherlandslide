@@ -1,0 +1,11 @@
+{
+  "name": "weather-landslide-prediction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Terra-Guard — Meteorological Forecasting & Geotechnical Landslide Risk Assessment Platform",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "python run.py"
+  }
+}
